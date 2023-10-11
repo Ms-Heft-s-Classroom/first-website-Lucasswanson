@@ -1,0 +1,16 @@
+h1 {color: green;
+    font-size: 40px;
+      font-family: cursive;
+    }
+    li {text-align: center;
+    }
+    ol {text-align: center;
+    }
+    h2 {font-family: fantasy;
+    }
+    h4 {font-family: sans-serif;
+    }
+    h6 {font-family: inherit;
+    }
+    p1 {background:green;
+    color: yellow;}
